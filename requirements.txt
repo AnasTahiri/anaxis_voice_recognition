@@ -1,0 +1,7 @@
+SpeechRecognition==3.8.1
+gTTS==2.3.2
+playsound==1.2.2
+
+
+https://pypi.org/project/playsound2/            # playsound link
+https://pypi.org/project/SpeechRecognition/     # SpeechRecognition
